@@ -1,3 +1,3 @@
 # dotfiles
 
-dotfiles that I use for in my systems setup
+dotfiles that I use in my systems setup

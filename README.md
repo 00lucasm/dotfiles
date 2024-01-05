@@ -1,3 +1,3 @@
 # dotfiles
 
-dotfiles that I use in my systems setup
+dotfiles that make my life easy
